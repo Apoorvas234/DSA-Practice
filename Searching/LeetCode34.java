@@ -1,4 +1,6 @@
-class LeetCode34 {
+//First and Last Occurance
+// l
+// class LeetCode34 {
     public int[] searchRange(int[] nums, int target) {
         int n = nums.length;
         int low = 0;
