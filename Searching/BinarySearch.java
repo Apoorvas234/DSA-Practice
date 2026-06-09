@@ -22,4 +22,21 @@ class BinarySearch{
 
         System.out.println(ans);
     }
-}
+} //Beginner
+// 704
+// 35
+// 34❤️
+// 162
+// 852❤️
+// Intermediate
+// 33
+// 81
+// 153
+// 540
+// 74
+// Binary Search on Answer
+// 875
+// 1011
+// 1283
+// 1482
+// 1552
